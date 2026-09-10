@@ -25,7 +25,7 @@ security:
     format: PKCS12
     provider: SUN
 services:
-- serviceName: project.siqapro9sep.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:Database9Sep
+- serviceName: project.siqapro9sep.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:DatabaseNonSSL
   packages:
   - name: SIQAPro9sepProject
     version: "1.0"
